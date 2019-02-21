@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/page/index/HomePage.dart';
-import 'package:flutter_app/page/cart/CartPage.dart';
-import 'package:flutter_app/page/category/CategoryPage.dart';
-import 'package:flutter_app/page/user/index/MinePage.dart';
+import 'package:flutter_shop/page/index/HomePage.dart';
+import 'package:flutter_shop/page/cart/CartPage.dart';
+import 'package:flutter_shop/page/category/CategoryPage.dart';
+import 'package:flutter_shop/page/user/index/MinePage.dart';
 
 
 class MainPage extends StatelessWidget {

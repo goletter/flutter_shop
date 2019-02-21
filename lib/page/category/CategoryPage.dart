@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/page/auth/LoginPage.dart';
+import 'package:flutter_shop/page/auth/LoginPage.dart';
 
 class CategoryPage extends StatefulWidget {
   @override
